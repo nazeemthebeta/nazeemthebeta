@@ -1,5 +1,5 @@
 ### Hello World! 👋
-#[![Portfolio](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://www.nazeem.xyz)
+#[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue)](https://www.nazeem.xyz)
 
 
 
